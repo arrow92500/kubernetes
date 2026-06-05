@@ -3,7 +3,7 @@ image:
   tag: 4.0.0-SNAPSHOT
 
 
-replicas: 1
+replicas: 2
 
 app:
   contextPath: ""
